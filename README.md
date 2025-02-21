@@ -160,9 +160,9 @@ server.port=9090
 ## **9️⃣ Contributions & Future Improvements**
 ### **Possible Enhancements:**
 - **Add more logging** for better tracking of requests and errors.
-- **Improve error handling** by bubbling up backend validation errors to the frontend UI.
 - **Implement advanced search queries** to retrieve payments based on card details and names.
-- **Enhance frontend with UI improvements** like real-time validation feedback.
+- **Enhance frontend with UI improvements** styling, overall design etc. Ignored mostly because of the requirements
+- Look at encryption specifically rather than hashing, which I felt was a simpler solution in this scenario
 
 ### **Want to Contribute?**
 Fork this repo, make your changes, and submit a **Pull Request**! 🚀
