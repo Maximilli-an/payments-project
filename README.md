@@ -7,6 +7,7 @@ This project is a full-stack application for processing payments. It consists of
 - **Database**: MySQL for storing payment records
 - **API Documentation**: OpenAPI with Swagger UI
 
+`If you wish to see some of the 'thought process' that went into some decision making, please views the "Thoughts.md"`
 ---
 
 ## **Project Structure**
