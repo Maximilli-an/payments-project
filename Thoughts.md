@@ -74,6 +74,11 @@ Added a zipCode test and validator to cover off edge cases / unhandled zipCode v
 
 Moving all this to a new repo before attempting to initialize the frontend
 
+Frontend is fairly simple, minimal error messaging handled by basic react hooks, Vite for initialisation, no styling or validation on the frontend for this challenge
+
+Use GPT to generate a ReadMe based on a site I reference often for Readme clarity:
+https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
 
 
 
