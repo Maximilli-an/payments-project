@@ -16,7 +16,7 @@ public class PaymentService {
     private PaymentRepository paymentRepository;
 
     public Payment savePayment(Payment payment) {
-        logger.info("Saving payment for: {] {}", payment.getFirstName(), payment.getLastName());
+        logger.info("Saving payment for: {} {}", payment.getFirstName(), payment.getLastName());
 
         return paymentRepository.save(payment);
     }
